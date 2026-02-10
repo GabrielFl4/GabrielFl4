@@ -57,7 +57,7 @@ My values are simple: **explore, learn constantly, and grow by knowing when to l
 
 - **Backend / Web:** REST APIs, layered architecture, SQL persistence, business rules, integration patterns  
 - **Mobile:** native Android (Java), real screens & flows, API consumption, data consistency  
-- **Automation / Embedded (C++ + Arduino):** small systems and logic-driven solutions (including pathfinding/decision logic in academic projects)  
+- **Automation / Embedded (C++ & Arduino):** small systems and logic-driven solutions (including pathfinding/decision logic in academic projects)  
 - **Minecraft Modding:** server-authoritative systems, networking, UI/UX, datapack-driven design, shaders/rendering when needed  
 
 <br/>
